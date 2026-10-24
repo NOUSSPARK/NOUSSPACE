@@ -1,4 +1,5 @@
 import Image from "next/image";
+import { DiscoverButton } from "@/components/block/discover-button";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
           </code>{" "}
           to start building.
         </p>
+        <DiscoverButton label="Explore components" href="https://www.obsidianui.dev/components" />
       </main>
     </div>
   );
