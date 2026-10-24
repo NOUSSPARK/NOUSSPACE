@@ -24,3 +24,4 @@ This folder is an [Obsidian](https://obsidian.md) vault. Open it in Obsidian via
 ## Highlights
 
 - ⭐ [[Vessa]] — animated live brand guidelines (inspiration)
+- ⭐ [[Odyssey Video Style]] — cinematic/moody video direction (inspiration)
