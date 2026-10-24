@@ -25,3 +25,7 @@ This folder is an [Obsidian](https://obsidian.md) vault. Open it in Obsidian via
 
 - ⭐ [[Vessa]] — animated live brand guidelines (inspiration)
 - ⭐ [[Odyssey Video Style]] — cinematic/moody video direction (inspiration)
+
+## Workflow
+
+- [[Sync Workflow]] — Linear ↔ GitHub ↔ Knowledge base convention
