@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Obsidian (keep config, ignore user state/cache)
+knowledge-base/.obsidian/workspace*.json
+knowledge-base/.obsidian/cache
+knowledge-base/.obsidian/plugins/*/data.json
