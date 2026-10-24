@@ -20,3 +20,7 @@ This folder is an [Obsidian](https://obsidian.md) vault. Open it in Obsidian via
 - [[Welcome]]
 - [[Stack]]
 - [[Design Ideas]]
+
+## Highlights
+
+- ⭐ [[Vessa]] — animated live brand guidelines (inspiration)
