@@ -28,6 +28,7 @@ This folder is an [Obsidian](https://obsidian.md) vault. Open it in Obsidian via
 - ⭐ [[zozuar]] — procedural GLSL tweet shaders (perfectly aligned with Nous Space vision)
 - ⭐ [[Nature Body Universe Alignment]] — cosmic/organic unity concept
 - ⭐ [[Morflax Studio]] — browser-based 3D design & motion platform (perfectly aligned with Nous Space vision)
+- ⭐ [[Tortoise Generator]] — toroidal fractal artwork generator + AI (perfectly aligned with Nous Space vision)
 
 ## Visual direction
 
