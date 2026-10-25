@@ -18,7 +18,7 @@ Three unifying beliefs:
 
 ## 2. Mood & Atmosphere
 
-- Dark-first, cinematic, atmospheric, moody.
+- Cinematic, atmospheric, moody.
 - Contemplative, quiet, "the eternal silence of these infinite spaces."
 - Optimistic yet profound ("the inevitable splendor was there in the beginning").
 - Sci-fi classical — statues, sacred geometry, cosmic structures.
@@ -32,12 +32,12 @@ Keywords: **cosmic, minimal, hypnotic, procedural, organic, sacred geometry, mic
 
 Starting palette (inspired by Vessa + cosmic references):
 
-| Token | Hex | Use |
-|---|---|---|
-| Ink | `#101216` | Primary dark background |
-| Paper | `#EEF0F3` | Light surface / text on dark |
-| Accent Blue | `#1F2DE6` | CTAs, links, highlights |
-| Zinc scale | Tailwind defaults | Neutrals, borders, muted text |
+| Token       | Hex               | Use                           |
+| ----------- | ----------------- | ----------------------------- |
+| Ink         | `#101216`         | Primary dark background       |
+| Paper       | `#EEF0F3`         | Light surface / text on dark  |
+| Accent Blue | `#1F2DE6`         | CTAs, links, highlights       |
+| Zinc scale  | Tailwind defaults | Neutrals, borders, muted text |
 
 - Dark mode is the default; light mode supported.
 - High contrast, minimal color. Color is used sparingly and meaningfully (like Vessa's click-to-copy swatches).
