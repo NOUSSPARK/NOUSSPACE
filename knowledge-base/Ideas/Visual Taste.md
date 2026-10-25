@@ -87,36 +87,36 @@ Lens Distortion · Fractal Glass · Glitch · Dither · ASCII · Glass Lens · C
 
 ## 8. Key Influences (highlighted)
 
-| Reference | Contribution |
-|---|---|
-| **Odyssey** (X) | Dark, cinematic, atmospheric video; branding direction. |
-| **zozuar** (X) | Procedural GLSL tweet shaders; code-driven motion. |
-| **Vessa** | Animated live brand guidelines; click-to-copy values. |
-| **Morflax Studio** | Browser-based 3D design & motion; effects/post-processing. |
-| **Tortoise Generator** | Toroidal fractal artwork + AI (Stability). |
-| **Poincaré sphere {3,5,3}** | Wireframe mathematical 3D visuals. |
-| **Mind as microcosm** | Every mind holds galaxies of ideas; site as vessel. |
-| **Nature/Body/Universe** | Eye ≈ galaxy; cosmic/organic unity. |
-| **Black hole = code** | Code as gravitational center. |
-| **Starkapoo** | Cosmic space art / AI visual synthesis. |
-| **A. L. Crego** | GIFftillism; seamless hypnotic loops; sacred geometry. |
-| **Jteve Sobs** | Poetic, optimistic cosmic short-form video. |
-| **The Math Flow** | Math animations + cosmic quotes (Pascal). |
-| **Simone Conradi** | Pure Python/math generative art. |
-| **::: CUDA :::** | 3D pixel ecosystems / retro computing. |
-| **Door to Divinity** | Mysterious cosmic GIF. |
-| **AnglsAI** | AI cosmic/hopeful imagery. |
-| **Lloyd Creates** | AI image workflows (Krea/Weavy/Flora/Topaz). |
-| **Unseen** | Midjourney + Figma hybrid. |
-| **Selenine** | "The Worlds Within" — worlds within worlds. |
-| **Dogan Ural** | Latent-space AI visuals (xAI). |
-| **Night Sky Today** | Astronomy/cosmology; Fibonacci + quantum time. |
-| **Sam Inked Art** | Cosmic Wonders AI video. |
-| **Ingi Erlingsson** | "Made to measure" AI video; systems thinking. |
-| **Drapz** | Brand design & systems for startups. |
-| **Benji Taylor** | Glassy space spheres (3D). |
-| **hal_0009** | Recursive surface erosion. |
-| **Imran** | Curated design resources/components. |
+| Reference                   | Link                                                       | Contribution                                               |
+| --------------------------- | ---------------------------------------------------------- | ---------------------------------------------------------- |
+| **Odyssey**                 | [x.com/odysseyml](https://x.com/odysseyml)                 | Dark, cinematic, atmospheric video; branding direction.    |
+| **zozuar**                  | [x.com/zozuar](https://x.com/zozuar)                       | Procedural GLSL tweet shaders; code-driven motion.         |
+| **Vessa**                   | [vessa.design](https://vessa.design)                       | Animated live brand guidelines; click-to-copy values.      |
+| **Morflax Studio**          | [studio.morflax.com](https://studio.morflax.com)           | Browser-based 3D design & motion; effects/post-processing. |
+| **Tortoise Generator**      | [nurecas.com](https://nurecas.com/tortoise_generator)       | Toroidal fractal artwork + AI (Stability).                 |
+| **Poincaré sphere {3,5,3}** | [x.com/tomo_](https://x.com/tomo_/status/2109944670692491680) | Wireframe mathematical 3D visuals.                      |
+| **Mind as microcosm**       | [x.com/poetengineer__](https://x.com/poetengineer__/status/2110060584138084373) | Every mind holds galaxies of ideas; site as vessel. |
+| **Nature/Body/Universe**    | (attached)                                                 | Eye ≈ galaxy; cosmic/organic unity.                        |
+| **Black hole = code**       | (attached)                                                 | Code as gravitational center.                              |
+| **Starkapoo**               | [x.com/Starkapoo](https://x.com/Starkapoo)                 | Cosmic space art / AI visual synthesis.                    |
+| **A. L. Crego**             | [x.com/ALCrego_](https://x.com/ALCrego_/status/2106411527997903109) | GIFftillism; seamless hypnotic loops; sacred geometry. |
+| **Jteve Sobs**              | [x.com/jtevesobs](https://x.com/jtevesobs/status/2108632629750968355) | Poetic, optimistic cosmic short-form video.          |
+| **The Math Flow**           | [x.com/TheMathFlow](https://x.com/TheMathFlow/status/2108584189138546959) | Math animations + cosmic quotes (Pascal).          |
+| **Simone Conradi**          | [x.com/S_Conradi](https://x.com/S_Conradi/status/2108294369300390046) | Pure Python/math generative art.                      |
+| **::: CUDA :::**            | [x.com/cudaoutofmemory](https://x.com/cudaoutofmemory/status/2108119748571435179) | 3D pixel ecosystems / retro computing.             |
+| **Door to Divinity**        | [x.com/doortodivinity](https://x.com/doortodivinity/status/2106107442082021881) | Mysterious cosmic GIF.                               |
+| **AnglsAI**                 | [x.com/AnglsAI](https://x.com/AnglsAI/status/2103223323735777714) | AI cosmic/hopeful imagery.                             |
+| **Lloyd Creates**            | [x.com/lloydcreates](https://x.com/lloydcreates/status/2102744956364271674) | AI image workflows (Krea/Weavy/Flora/Topaz).          |
+| **Unseen**                  | [x.com/unseenai](https://x.com/unseenai/status/2098714178655580323) | Midjourney + Figma hybrid.                           |
+| **Selenine**                | [x.com/Selenine23](https://x.com/Selenine23/status/2098424575717511198) | "The Worlds Within" — worlds within worlds.          |
+| **Dogan Ural**              | [x.com/doganuraldesign](https://x.com/doganuraldesign/status/2095204665335947315) | Latent-space AI visuals (xAI).                      |
+| **Night Sky Today**         | [x.com/NightSkyToday](https://x.com/NightSkyToday/status/2093381847522660596) | Astronomy/cosmology; Fibonacci + quantum time.       |
+| **Sam Inked Art**           | [x.com/SamInkedArt](https://x.com/SamInkedArt/status/2091189222967558389) | Cosmic Wonders AI video.                             |
+| **Ingi Erlingsson**         | [x.com/ingi_erlingsson](https://x.com/ingi_erlingsson/status/2090599499588641065) | "Made to measure" AI video; systems thinking.     |
+| **Drapz**                   | [x.com/drapzdesigns](https://x.com/drapzdesigns/status/2084293211141570717) | Brand design & systems for startups.                 |
+| **Benji Taylor**            | [x.com/benjitaylor](https://x.com/benjitaylor/status/2072392028474994745) | Glassy space spheres (3D).                           |
+| **hal_0009**                | [x.com/hal_chemy](https://x.com/hal_chemy/status/2083003699966689564) | Recursive surface erosion.                           |
+| **Imran**                   | [x.com/ImranUxi](https://x.com/ImranUxi/status/2082867775677284387) | Curated design resources/components.                 |
 
 ---
 

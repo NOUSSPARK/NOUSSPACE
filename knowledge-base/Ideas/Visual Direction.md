@@ -4,7 +4,7 @@ A working definition of the Nous Space visual language, built from highlighted r
 
 ## Core themes
 
-- **Cosmic & organic unity** — nature, the human body, and the universe are aligned (eye ≈ galaxy). Inner space mirrors outer space.
+- **Cosmic & organic unity** — nature, cosmos, fractals, attractors, math, code, neural networks
 - **Motion-first** — motion carries meaning; minimal copy, striking single clips.
 - **Code-driven** — procedural shaders and 3D (Three.js) as first-class visuals.
 - **Dark, cinematic, atmospheric** — moody lighting, minimal palette, strong typography.
