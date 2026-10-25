@@ -16,6 +16,7 @@ A working definition of the Nous Space visual language, built from highlighted r
 - **Vessa** — animated live brand guidelines; click-to-copy values; motion as shipped numbers.
 - **Three.js** — 3D scenes, heroes, interactive accents.
 - **Poincaré sphere {3,5,3}** — wireframe mathematical 3D visuals (cosmic geometry).
+- **Mind as microcosm** — every mind holds galaxies of ideas; site as a vessel of multitudes (stars = works).
 - **Nature/Body/Universe** — eye-as-galaxy; cosmic + organic unity.
 
 ## Palette (starting point)
