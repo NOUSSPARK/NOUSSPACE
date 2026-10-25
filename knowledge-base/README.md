@@ -27,6 +27,7 @@ This folder is an [Obsidian](https://obsidian.md) vault. Open it in Obsidian via
 - ⭐ [[Odyssey Video Style]] — cinematic/moody video direction (inspiration, branding)
 - ⭐ [[zozuar]] — procedural GLSL tweet shaders (perfectly aligned with Nous Space vision)
 - ⭐ [[Nature Body Universe Alignment]] — cosmic/organic unity concept
+- ⭐ [[Morflax Studio]] — browser-based 3D design & motion platform (perfectly aligned with Nous Space vision)
 
 ## Visual direction
 
