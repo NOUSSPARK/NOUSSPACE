@@ -31,6 +31,10 @@ procedural, GLSL, raymarching, fractal noise (FBM), volumetric, organic, psyched
 - twigl editor: https://twigl.app
 - Breakdowns: gist.github.com/yonatan
 
+## Highlight
+
+⭐ **Highlighted** — zozuar's procedural shader art is perfectly aligned with the Nous Space vision (code-driven, cosmic, organic, minimal-yet-dense motion).
+
 ## Tags
 
-#reference #inspiration #shader #procedural #motion #visual-direction
+#reference #highlight #inspiration #shader #procedural #motion #visual-direction

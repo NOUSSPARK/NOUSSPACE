@@ -24,7 +24,13 @@ This folder is an [Obsidian](https://obsidian.md) vault. Open it in Obsidian via
 ## Highlights
 
 - ⭐ [[Vessa]] — animated live brand guidelines (inspiration)
-- ⭐ [[Odyssey Video Style]] — cinematic/moody video direction (inspiration)
+- ⭐ [[Odyssey Video Style]] — cinematic/moody video direction (inspiration, branding)
+- ⭐ [[zozuar]] — procedural GLSL tweet shaders (perfectly aligned with Nous Space vision)
+- ⭐ [[Nature Body Universe Alignment]] — cosmic/organic unity concept
+
+## Visual direction
+
+- [[Visual Direction]] — working definition of the Nous Space visual language
 
 ## Workflow
 
