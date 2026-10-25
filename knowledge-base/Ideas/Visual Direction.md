@@ -15,6 +15,7 @@ A working definition of the Nous Space visual language, built from highlighted r
 - ⭐ **zozuar** (X) — procedural GLSL "tweet shaders": raymarched, organic, psychedelic, volumetric noise. Perfectly aligned with the Nous Space vision.
 - **Vessa** — animated live brand guidelines; click-to-copy values; motion as shipped numbers.
 - **Three.js** — 3D scenes, heroes, interactive accents.
+- **Poincaré sphere {3,5,3}** — wireframe mathematical 3D visuals (cosmic geometry).
 - **Nature/Body/Universe** — eye-as-galaxy; cosmic + organic unity.
 
 ## Palette (starting point)
