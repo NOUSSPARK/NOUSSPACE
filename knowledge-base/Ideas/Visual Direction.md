@@ -29,6 +29,10 @@ A working definition of the Nous Space visual language, built from highlighted r
 - Copyable motion values (easing/duration) for developers.
 - Respect `prefers-reduced-motion`.
 
+## Post-processing palette (from Morflax Effects)
+
+Lens Distortion, Fractal Glass, Glitch, Dither, ASCII, Glass Lens, CRT, Bricks, Dot Matrix, Outline, CMYK, Risograph, Mosaic, Heatmap, Gradient Map — plus Blur, Bloom, Vignette, Chromatic, Film Grain, Gradient Overlay. See [[Morflax Effects]].
+
 ## Tags
 
 #visual-direction #branding #highlight #reference
