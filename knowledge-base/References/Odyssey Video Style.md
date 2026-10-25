@@ -20,6 +20,15 @@ A short cinematic clip posted by Odyssey with the caption "Could be a long night
 - Keep copy minimal (one line) and let motion carry emotion.
 - Dark palette with subtle lighting.
 
+## Examples
+
+1. "Could be a long night." — https://x.com/odysseyml/status/2101055190455456005?s=20
+2. "Still somewhere in the pattern." — https://x.com/odysseyml/status/2112915874260656424?s=20
+
+## Branding decision
+
+We'll use Odyssey's visual direction (dark, cinematic, atmospheric, motion-first) as a core branding reference for Nous Space.
+
 ## Tags
 
-#reference #highlight #inspiration #video #motion #visual-direction
+#reference #highlight #inspiration #video #motion #visual-direction #branding
